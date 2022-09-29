@@ -1,0 +1,5 @@
+console.log("este es el primer PROyecto en visual studio")
+console.log("hola")
+console.log("me llamo pedro")
+console.log("Viva el america")
+console.log("soy muy gracioso")
